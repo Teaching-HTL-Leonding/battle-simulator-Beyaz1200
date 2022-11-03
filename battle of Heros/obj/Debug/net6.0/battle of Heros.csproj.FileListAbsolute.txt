@@ -1,0 +1,15 @@
+C:\pro\battle of Heros\bin\Debug\net6.0\battle of Heros.exe
+C:\pro\battle of Heros\bin\Debug\net6.0\battle of Heros.deps.json
+C:\pro\battle of Heros\bin\Debug\net6.0\battle of Heros.runtimeconfig.json
+C:\pro\battle of Heros\bin\Debug\net6.0\battle of Heros.dll
+C:\pro\battle of Heros\bin\Debug\net6.0\battle of Heros.pdb
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.csproj.AssemblyReference.cache
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.AssemblyInfoInputs.cache
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.AssemblyInfo.cs
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.csproj.CoreCompileInputs.cache
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.dll
+C:\pro\battle of Heros\obj\Debug\net6.0\refint\battle of Heros.dll
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.pdb
+C:\pro\battle of Heros\obj\Debug\net6.0\battle of Heros.genruntimeconfig.cache
+C:\pro\battle of Heros\obj\Debug\net6.0\ref\battle of Heros.dll
